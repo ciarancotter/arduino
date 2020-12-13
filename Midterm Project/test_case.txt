@@ -1,0 +1,15 @@
+Test Case
+Test Case Summary: To create a sensor-based plant care system.
+Prerequisites: Water is available for pump, a USB power source, and a plant.
+Test Procedure: 1. Place the soil moisture sensor into the soil.
+            2. Read the value displayed on the LCD screen.
+           3. Ensure that pump is functioning correctly.
+           4. Ensure that light is correct colour.
+Test Data: Readings from moisture sensor
+Expected Result: No pump functioning, and that the sensor is reading correctly. Light functioning  correctly.
+Actual Result: Pump is not connected. Sensor is working. Light is working correctly.
+Status: Pass.
+Remarks: Hopefully the pump can be utilised soon.
+Created By: Ciarán, Cael, Ben
+Date of Execution: 26/11/18
+Test Environment: Arduino Mega 2560
